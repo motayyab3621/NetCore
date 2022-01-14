@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\bin\Debug\netcoreapp3.1\ExtensionMethodsDemo.exe
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\bin\Debug\netcoreapp3.1\ExtensionMethodsDemo.deps.json
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\bin\Debug\netcoreapp3.1\ExtensionMethodsDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\bin\Debug\netcoreapp3.1\ExtensionMethodsDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\bin\Debug\netcoreapp3.1\ExtensionMethodsDemo.dll
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\bin\Debug\netcoreapp3.1\ExtensionMethodsDemo.pdb
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.dll
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.pdb
+C:\Users\DELL\source\repos\NetCore\ExtensionMethodsDemo\ExtensionMethodsDemo\obj\Debug\netcoreapp3.1\ExtensionMethodsDemo.genruntimeconfig.cache
